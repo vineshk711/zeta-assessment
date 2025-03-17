@@ -1,6 +1,6 @@
 **Answers to questions:**
 
-**Task 1: Banking API**
+**Task 1: Invisible Bug**
 
 Possible reasons for degraded accuracy and performance of API
    - Customer transaction patterns have changed significantly from the training data
