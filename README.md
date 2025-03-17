@@ -13,6 +13,9 @@ Debugging Steps:
    - Check the API to log response times and pinpoint which parts of the request lifecycle are slowing down.
 
 
+
+
+
 **Task 2: Banking API**
 
 1. What database schema would you use?
@@ -26,6 +29,10 @@ Debugging Steps:
     - Use Indexing for Faster Queries
     - Use Connection Pooling for DB
     - Use Asynchronous Processing for Non-Critical Operations
+
+
+
+
       
 **Task 3: Rate Limiter**
 
